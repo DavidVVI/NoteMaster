@@ -1,3 +1,5 @@
 # NoteMaster
 
-Written By: David Wray Notemaster is a simple tool for helping you to capture and prioritize ideas. Never lose track of your tasks and deadlines. Android Version is out ! Windows and IOS Versions soon to be released, please stay tuned !
+***************Written By: David Wray *******************
+
+Notemaster is a simple and effective tool for capturing and saving notes. This is the android version, Windows and iOS in the works and soon to be released. Stay tuned !
